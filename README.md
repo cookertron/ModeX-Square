@@ -27,8 +27,9 @@ The program performs the following operations:
 ```cmd
 ml /c MXSQR_MS.ASM
 link MXSQR_MS.OBJ;
-
+```
 ### Borland TASM (5.0 or later)
+```cmd
 tasm /m MXSQR_BL.ASM
 tlink MXSQR_BL.OBJ
 ```
